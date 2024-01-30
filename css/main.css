@@ -225,7 +225,7 @@ button {
 	/* box-shadow: 0px 0px 20px #8860cf */
 }
 
-.number_eqv:before {
+/* .number_eqv:before {
 	content: "";
 	width: 1.5em;
 	position: absolute;
@@ -242,7 +242,7 @@ button {
 
 .number_eqv:hover::before {
 	transform: translate(10em) skewX(-60deg);
-}
+} */
 
 .number_eqv:after {
 	content: "";
